@@ -1,2 +1,2 @@
 #Токен бота
-BotToken = 'vk1.a.WwTfSfWztGztEXDNnoBiJLiNo65VlFu3T9jCDXD_y-ryhEu75QQJlKfO3_krOd2txemGcBimW6Wu2c_P6Df6i-j1o0s2wfzTxg4jjWOtOx1mJRsIc8fMiJntiNptq4dhpqG5bh69ughKNy_ZtgiimgFKC5PNwsltnDVB8p-bkg2MvLHk1IXvq0VMKNrnmbmavo4NFUDTKvU3gl9keq2L_Q'
+BotToken = ''
